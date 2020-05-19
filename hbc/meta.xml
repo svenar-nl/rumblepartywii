@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>RumbleParty</name>
+	<version>0.1</version>
+    <release_date>202005100000</release_date>
+	<coder>Sven Arends</coder>
+	<short_description>RumbleParty</short_description>
+	<long_description>RumbleParty
+Yet another party game for the Wii.
+
+This game is playable for free, but please consider donating if you like the game.
+https://ko-fi.com/svenar
+
+Visit https://svenar.nl for more.
+</long_description>
+</app>
